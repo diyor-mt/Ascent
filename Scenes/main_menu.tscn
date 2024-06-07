@@ -1,0 +1,74 @@
+[gd_scene load_steps=5 format=3 uid="uid://bhn7xp7njugrd"]
+
+[ext_resource type="Script" path="res://Scripts/Main Menu.gd" id="1_1vjx1"]
+[ext_resource type="Texture2D" uid="uid://de10sbt7a2jty" path="res://Assets/title.png" id="2_224jr"]
+
+[sub_resource type="Theme" id="Theme_ho67o"]
+
+[sub_resource type="SystemFont" id="SystemFont_mbpwn"]
+font_names = PackedStringArray("Yu Gothic")
+
+[node name="Main Menu" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_right = -1152.0
+offset_bottom = -648.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_1vjx1")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+layout_mode = 0
+offset_left = -1.0
+offset_top = -7.0
+offset_right = 1919.0
+offset_bottom = 1081.0
+scale = Vector2(0.603818, 0.604729)
+texture = ExtResource("2_224jr")
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+layout_mode = 0
+offset_left = 497.0
+offset_top = 255.0
+offset_right = 567.0
+offset_bottom = 383.0
+scale = Vector2(1.70363, 1.70363)
+theme = SubResource("Theme_ho67o")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer"]
+layout_mode = 2
+
+[node name="Play" type="Button" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 40
+text = "Play"
+
+[node name="Options" type="Button" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 40
+text = "Options"
+
+[node name="Exit" type="Button" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 40
+text = "Exit
+"
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_left = 421.0
+offset_top = 74.0
+offset_right = 625.0
+offset_bottom = 183.0
+scale = Vector2(2.15838, 2.15838)
+theme_override_fonts/font = SubResource("SystemFont_mbpwn")
+theme_override_font_sizes/font_size = 64
+text = "Ascent"
+
+[connection signal="pressed" from="MarginContainer/VBoxContainer/Play" to="." method="_on_play_pressed"]
+[connection signal="pressed" from="MarginContainer/VBoxContainer/Options" to="." method="_on_options_pressed"]
+[connection signal="pressed" from="MarginContainer/VBoxContainer/Exit" to="." method="_on_exit_pressed"]

@@ -1,0 +1,8 @@
+res://Scenes/main_menu.tscn
+res://Scenes/MainScene.tscn
+res://Scenes/enemy_1.tscn
+res://Scenes/player.tscn
+res://Scenes/health_changed_manager.tscn
+res://Scenes/health_changed_label.tscn
+res://Scenes/game.tscn
+res://Scenes/options.tscn

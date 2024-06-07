@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://cqb3x5a45ftwm"]
+
+[ext_resource type="AudioStream" uid="uid://b7fsruxquqg2m" path="res://Assets/reflected-light-147979.mp3" id="1_jp4ti"]
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer"]
+stream = ExtResource("1_jp4ti")
+volume_db = -9.724
+autoplay = true

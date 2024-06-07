@@ -1,0 +1,383 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1716237339
+icon.svg::CompressedTexture2D::1701750855830309230::1711573577::1711573615::1::::<><>::
+README.md::TextFile::-1::1714327309::0::1::::<><>::
+::res://Assets/::1715028170
+reflected-light-147979.mp3::AudioStreamMP3::4643909919998450490::1713666898::1714326880::1::::<><>::
+title.png::CompressedTexture2D::7495241399676076506::1714177236::1714326804::1::::<><>::
+::res://Assets/1 Biker/::1714326804
+Biker_attack1.png::CompressedTexture2D::2281303582797381533::1619905910::1714326804::1::::<><>::
+Biker_attack2.png::CompressedTexture2D::963860357511385366::1619904399::1714326804::1::::<><>::
+Biker_attack3.png::CompressedTexture2D::4550580956552712788::1619904409::1714326804::1::::<><>::
+Biker_climb.png::CompressedTexture2D::7129443036903780376::1619904421::1714326804::1::::<><>::
+Biker_death.png::CompressedTexture2D::7498680160432315200::1619904433::1714326804::1::::<><>::
+Biker_doublejump.png::CompressedTexture2D::1103142475170187267::1619904448::1714326804::1::::<><>::
+Biker_hurt.png::CompressedTexture2D::4842648064351928252::1619904461::1714326804::1::::<><>::
+Biker_idle.png::CompressedTexture2D::681000028875263821::1619904474::1714326804::1::::<><>::
+Biker_jump.png::CompressedTexture2D::8543502331110367452::1619904488::1714326804::1::::<><>::
+Biker_punch.png::CompressedTexture2D::9210229612241138203::1619904502::1714326804::1::::<><>::
+Biker_run.png::CompressedTexture2D::2707872439647521750::1619904513::1714326804::1::::<><>::
+Biker_run_attack.png::CompressedTexture2D::8268519588349697074::1619904522::1714326804::1::::<><>::
+::res://Assets/1 Woodcutter/::1714326804
+Woodcutter.png::CompressedTexture2D::2629281493481566561::1578558918::1714326804::1::::<><>::
+Woodcutter_attack1.png::CompressedTexture2D::1589050856272264339::1578558668::1714326804::1::::<><>::
+Woodcutter_attack2.png::CompressedTexture2D::44982812702388208::1578558686::1714326804::1::::<><>::
+Woodcutter_attack3.png::CompressedTexture2D::2343788149484627981::1578558703::1714326804::1::::<><>::
+Woodcutter_climb.png::CompressedTexture2D::7371475424987689510::1578558506::1714326804::1::::<><>::
+Woodcutter_craft.png::CompressedTexture2D::3777896913348872338::1578558319::1714326804::1::::<><>::
+Woodcutter_death.png::CompressedTexture2D::1908689112269879823::1578558288::1714326804::1::::<><>::
+Woodcutter_hurt.png::CompressedTexture2D::8502118418041092571::1578558729::1714326804::1::::<><>::
+Woodcutter_idle.png::CompressedTexture2D::7635930539688670109::1578557974::1714326804::1::::<><>::
+Woodcutter_jump.png::CompressedTexture2D::3830705827858523232::1578558259::1714326804::1::::<><>::
+Woodcutter_push.png::CompressedTexture2D::1560460895908269799::1578558233::1714326804::1::::<><>::
+Woodcutter_run.png::CompressedTexture2D::8814783509213863468::1578558210::1714326804::1::::<><>::
+Woodcutter_walk.png::CompressedTexture2D::1219740128540684448::1578558153::1714326804::1::::<><>::
+::res://Assets/2 GraveRobber/::1714326804
+GraveRobber.png::CompressedTexture2D::2362407609229471251::1578561935::1714326804::1::::<><>::
+GraveRobber_attack1.png::CompressedTexture2D::5448954498719251510::1578561872::1714326804::1::::<><>::
+GraveRobber_attack2.png::CompressedTexture2D::7707604516864949197::1578561885::1714326804::1::::<><>::
+GraveRobber_attack3.png::CompressedTexture2D::672977456689714250::1578561900::1714326804::1::::<><>::
+GraveRobber_climb.png::CompressedTexture2D::1942855427196495136::1578561853::1714326804::1::::<><>::
+GraveRobber_craft.png::CompressedTexture2D::9025576697823596418::1578561834::1714326804::1::::<><>::
+GraveRobber_death.png::CompressedTexture2D::7890610802879234645::1578561815::1714326804::1::::<><>::
+GraveRobber_hurt.png::CompressedTexture2D::3990311489249954865::1578565994::1714326804::1::::<><>::
+GraveRobber_idle.png::CompressedTexture2D::4937178958063513735::1578561715::1714326804::1::::<><>::
+GraveRobber_jump.png::CompressedTexture2D::3286972937454264774::1578561794::1714326804::1::::<><>::
+GraveRobber_push.png::CompressedTexture2D::5938057874275133694::1578561774::1714326804::1::::<><>::
+GraveRobber_run.png::CompressedTexture2D::168251674223026942::1578561756::1714326804::1::::<><>::
+GraveRobber_walk.png::CompressedTexture2D::1020750217644558822::1578561739::1714326804::1::::<><>::
+::res://Assets/3 SteamMan/::1714171864
+::res://Assets/3 SteamMan/2 Punk/::1714326804
+Punk_attack1.png::CompressedTexture2D::878477401383086601::1619907191::1714326804::1::::<><>::
+Punk_attack2.png::CompressedTexture2D::6251184096532834398::1619907204::1714326804::1::::<><>::
+Punk_attack3.png::CompressedTexture2D::5055803834828313350::1619907217::1714326804::1::::<><>::
+Punk_climb.png::CompressedTexture2D::3601797869693229080::1619907229::1714326804::1::::<><>::
+Punk_death.png::CompressedTexture2D::576386259765462658::1619907240::1714326804::1::::<><>::
+Punk_doublejump.png::CompressedTexture2D::7669386372554167372::1619907263::1714326804::1::::<><>::
+Punk_hurt.png::CompressedTexture2D::4720931992423901420::1619907277::1714326804::1::::<><>::
+Punk_idle.png::CompressedTexture2D::207724049987998604::1619907288::1714326804::1::::<><>::
+Punk_jump.png::CompressedTexture2D::7945715130699444724::1619907304::1714326804::1::::<><>::
+Punk_punch.png::CompressedTexture2D::8214242966751524474::1619907316::1714326804::1::::<><>::
+Punk_run.png::CompressedTexture2D::7250834802725872293::1619907327::1714326804::1::::<><>::
+Punk_run_attack.png::CompressedTexture2D::1157387145712741061::1619907339::1714326804::1::::<><>::
+::res://Assets/8_Atk_Magic_SFX/::1714326805
+04_Fire_explosion_04_medium.wav::AudioStreamWAV::327053300257403241::1645105747::1714326805::1::::<><>::
+13_Ice_explosion_01.wav::AudioStreamWAV::5587415372139576326::1645105918::1714326805::1::::<><>::
+18_Thunder_02.wav::AudioStreamWAV::2512025382582455922::1645106028::1714326805::1::::<><>::
+22_Water_02.wav::AudioStreamWAV::4326569503204297656::1645106122::1714326805::1::::<><>::
+25_Wind_01.wav::AudioStreamWAV::6981234943902687150::1645106189::1714326805::1::::<><>::
+30_Earth_02.wav::AudioStreamWAV::8723245389253897482::1645106388::1714326805::1::::<><>::
+45_Charge_05.wav::AudioStreamWAV::3671020411378927496::1645107003::1714326805::1::::<><>::
+46_Poison_01.wav::AudioStreamWAV::3425761172756213118::1645107062::1714326805::1::::<><>::
+::res://Assets/8_Buffs_Heals_SFX/::1714326805
+02_Heal_02.wav::AudioStreamWAV::6740214330031473034::1645121896::1714326805::1::::<><>::
+16_Atk_buff_04.wav::AudioStreamWAV::2548878244861263493::1645122365::1714326805::1::::<><>::
+17_Def_buff_01.wav::AudioStreamWAV::2801623688129084625::1645122393::1714326805::1::::<><>::
+21_Debuff_01.wav::AudioStreamWAV::401722982362494089::1645122475::1714326805::1::::<><>::
+30_Revive_03.wav::AudioStreamWAV::5350944475891016109::1645122674::1714326805::1::::<><>::
+39_Absorb_04.wav::AudioStreamWAV::9213927678825733690::1645122834::1714326805::1::::<><>::
+44_Sleep_01.wav::AudioStreamWAV::3624974656574668806::1645122909::1714326805::1::::<><>::
+48_Speed_up_02.wav::AudioStreamWAV::6973458488951646843::1645122979::1714326805::1::::<><>::
+::res://Assets/10_Battle_SFX/::1714326805
+03_Claw_03.wav::AudioStreamWAV::7860333754403797003::1652703319::1714326805::1::::<><>::
+08_Bite_04.wav::AudioStreamWAV::3981614375074809678::1652703403::1714326805::1::::<><>::
+15_Impact_flesh_02.wav::AudioStreamWAV::895213910767944346::1652703520::1714326805::1::::<><>::
+22_Slash_04.wav::AudioStreamWAV::6646399876670111541::1652703623::1714326805::1::::<><>::
+35_Miss_Evade_02.wav::AudioStreamWAV::5673846327643601898::1652703870::1714326805::1::::<><>::
+39_Block_03.wav::AudioStreamWAV::7068633468632103732::1652703929::1714326805::1::::<><>::
+51_Flee_02.wav::AudioStreamWAV::4373173942539046325::1652704278::1714326805::1::::<><>::
+55_Encounter_02.wav::AudioStreamWAV::8738863067651270417::1652704343::1714326805::1::::<><>::
+69_Enemy_death_01.wav::AudioStreamWAV::4858396986842432958::1652704625::1714326805::1::::<><>::
+77_flesh_02.wav::AudioStreamWAV::4255166008371942502::1652704767::1714326805::1::::<><>::
+::res://Assets/10_UI_Menu_SFX/::1714326805
+001_Hover_01.wav::AudioStreamWAV::3482652791658082794::1643897227::1714326805::1::::<><>::
+013_Confirm_03.wav::AudioStreamWAV::1213121246092727561::1643897227::1714326805::1::::<><>::
+029_Decline_09.wav::AudioStreamWAV::1690091367515956207::1643897227::1714326805::1::::<><>::
+033_Denied_03.wav::AudioStreamWAV::1109765067598915123::1643897561::1714326805::1::::<><>::
+051_use_item_01.wav::AudioStreamWAV::490177424419592771::1643897227::1714326805::1::::<><>::
+070_Equip_10.wav::AudioStreamWAV::7445687557384802161::1643897227::1714326805::1::::<><>::
+071_Unequip_01.wav::AudioStreamWAV::8211081426709734647::1643897227::1714326805::1::::<><>::
+079_Buy_sell_01.wav::AudioStreamWAV::4382153250121958021::1643897227::1714326805::1::::<><>::
+092_Pause_04.wav::AudioStreamWAV::1406077390089857361::1643897227::1714326805::1::::<><>::
+098_Unpause_04.wav::AudioStreamWAV::2746712764500506847::1643897227::1714326805::1::::<><>::
+::res://Assets/12_Player_Movement_SFX/::1714326805
+03_Step_grass_03.wav::AudioStreamWAV::7256539153162369791::1647624422::1714326805::1::::<><>::
+08_Step_rock_02.wav::AudioStreamWAV::1725459280201700754::1647624540::1714326805::1::::<><>::
+12_Step_wood_03.wav::AudioStreamWAV::5237654109243314351::1647624621::1714326805::1::::<><>::
+14_Step_water_02.wav::AudioStreamWAV::5095677126595793618::1647624715::1714326805::1::::<><>::
+26_Swim_Submerged_02.wav::AudioStreamWAV::9121822255080086011::1647625027::1714326805::1::::<><>::
+30_Jump_03.wav::AudioStreamWAV::7003636099855097127::1647625146::1714326805::1::::<><>::
+42_Cling_climb_03.wav::AudioStreamWAV::7904490533610848319::1647625345::1714326805::1::::<><>::
+45_Landing_01.wav::AudioStreamWAV::6714830374927577684::1647625420::1714326805::1::::<><>::
+52_Dive_02.wav::AudioStreamWAV::8690958435407220061::1647625528::1714326805::1::::<><>::
+56_Attack_03.wav::AudioStreamWAV::6326619986905350146::1647625582::1714326805::1::::<><>::
+61_Hit_03.wav::AudioStreamWAV::2358076521460515010::1647625663::1714326805::1::::<><>::
+88_Teleport_02.wav::AudioStreamWAV::786719850700855533::1647626228::1714326805::1::::<><>::
+::res://Assets/Final/::1714326804
+Background_0.png::CompressedTexture2D::8001942264273792651::1710782747::1714326804::1::::<><>::
+Background_1.png::CompressedTexture2D::2488649807881130975::1710782747::1714326804::1::::<><>::
+brush.png::CompressedTexture2D::6124565996444328939::1710782747::1714326804::1::::<><>::
+Grass_background_1.png::CompressedTexture2D::2157168151924474561::1710782747::1714326804::1::::<><>::
+Grass_background_2.png::CompressedTexture2D::8851173458595318763::1710782747::1714326804::1::::<><>::
+Salt.png::CompressedTexture2D::4846793087307483433::1710782747::1714326804::1::::<><>::
+Tiles.png::CompressedTexture2D::6640260306102850607::1710782747::1714326804::1::::<><>::
+::res://Assets/Final/Social/::1714326805
+Autor_note.txt::TextFile::-1::1710782747::0::1::::<><>::
+moon.png::CompressedTexture2D::9000085914083038499::1710782747::1714326805::1::::<><>::
+test_1.png::CompressedTexture2D::4376669155365768588::1710782747::1714326805::1::::<><>::
+test_2.png::CompressedTexture2D::8002533284974546011::1710782747::1714326805::1::::<><>::
+::res://Assets/Free Pixel Art Hill/::1713650097
+::res://Assets/Free Pixel Art Hill/Free Pixel Art Hill/::1714180149
+contact.txt::TextFile::-1::1489457198::0::1::::<><>::
+Lisense.txt::TextFile::-1::1503419228::0::1::::<><>::
+readme.txt::TextFile::-1::1506394986::0::1::::<><>::
+::res://Assets/Free Pixel Art Hill/Free Pixel Art Hill/PNG/::1714326804
+Hills Layer 01.png::CompressedTexture2D::5187644191337700880::1505790186::1714326804::1::::<><>::
+Hills Layer 02.png::CompressedTexture2D::8006893324651043003::1505790184::1714326804::1::::<><>::
+Hills Layer 03.png::CompressedTexture2D::5902260473742433949::1505790184::1714326804::1::::<><>::
+Hills Layer 04.png::CompressedTexture2D::7380460413791632540::1505790182::1714326804::1::::<><>::
+Hills Layer 05.png::CompressedTexture2D::5721739016075910796::1505790182::1714326804::1::::<><>::
+Hills Layer 06.png::CompressedTexture2D::5268463307214055270::1505790180::1714326804::1::::<><>::
+::res://Assets/Free Pixel Art Hill/Free Pixel Art Hill/PREVIEWS/::1714326804
+Hills Free (update 3.0).png::CompressedTexture2D::1110938218549656483::1506394786::1714326804::1::::<><>::
+::res://Assets/Free Pixel Art Hill/Free Pixel Art Hill/PSD/::1506394942
+::res://Assets/godot-colorblindness-4666c465443dc161bf47bce1b6c98598490458b5/::1715028170
+::res://Assets/godot-colorblindness-4666c465443dc161bf47bce1b6c98598490458b5/addons/::1715028170
+::res://Assets/godot-colorblindness-4666c465443dc161bf47bce1b6c98598490458b5/addons/paulloz.colorblindness/::1715028170
+colorblindness.gd::GDScript::-1::1715028170::0::1::::<>RefCounted<>::
+colorblindness.material::ShaderMaterial::-1::1715028170::0::1::::<><>::res://addons/paulloz.colorblindness/colorblindness.shader
+colorblindness.svg::CompressedTexture2D::240662195849949716::1715028170::1715028170::1::::<><>::
+paulloz.colorblindness.gd::GDScript::-1::1715028170::0::1::::<>RefCounted<>::
+plugin.cfg::TextFile::-1::1715028170::0::1::::<><>::
+::res://Assets/gothicvania assets/::1713736533
+::res://Assets/gothicvania assets/atlas/::1714326804
+atlas.json::JSON::-1::1558709348::0::1::::<><>::
+atlas.png::CompressedTexture2D::3285859375771368285::1558709348::1714326804::1::::<><>::
+::res://Assets/gothicvania assets/environment/::1714326804
+background.png::CompressedTexture2D::1533521023700553100::1558715780::1714326804::1::::<><>::
+columns.png::CompressedTexture2D::293633392373256573::1558716600::1714326804::1::::<><>::
+tileset.png::CompressedTexture2D::8048329935500107399::1558738418::1714326804::1::::<><>::
+::res://Assets/gothicvania assets/images/::1714326804
+credits-text.png::CompressedTexture2D::4340446363456473304::1537899896::1714326804::1::::<><>::
+game-over.png::CompressedTexture2D::1940104080265724235::1528348464::1714326804::1::::<><>::
+instructions.png::CompressedTexture2D::8544801082049597146::1528232372::1714326804::1::::<><>::
+press-enter-text.png::CompressedTexture2D::7309085505870833043::1542934156::1714326804::1::::<><>::
+title-screen.png::CompressedTexture2D::2757372952183469663::1558741378::1714326804::1::::<><>::
+::res://Assets/gothicvania assets/map/::1713736533
+map.json::JSON::-1::1566598336::0::1::::<><>::
+::res://Assets/gothicvania assets/sounds/::1714326804
+attack.ogg::AudioStreamOggVorbis::8530704998707644319::1528345910::1714326804::1::::<><>::
+hurt.ogg::AudioStreamOggVorbis::9080459949099245728::1528345954::1714326804::1::::<><>::
+jump.ogg::AudioStreamOggVorbis::8560327974556608044::1528345992::1714326804::1::::<><>::
+kill.ogg::AudioStreamOggVorbis::395336600493468410::1528346012::1714326804::1::::<><>::
+Music-license.txt::TextFile::-1::1604859272::0::1::::<><>::
+ockaie_temple.ogg::AudioStreamOggVorbis::9072101918647365487::1484900528::1714326804::1::::<><>::
+::res://Assets/Legacy Fantasy - Debug Map/::1712712913
+Terms.txt::TextFile::-1::1710782680::0::1::::<><>::
+::res://Assets/Legacy Fantasy - Debug Map/Assets/::1714326804
+Tiles.png::CompressedTexture2D::4536401563398480798::1710782680::1714326804::1::::<><>::
+::res://Assets/Legacy Fantasy - Debug Map/MockUp/::1714326805
+Cover.png::CompressedTexture2D::655902051623649331::1710782680::1714326804::1::::<><>::
+MockUp_01.png::CompressedTexture2D::2236246693263608583::1710782680::1714326804::1::::<><>::
+Tiles.png::CompressedTexture2D::933200611398379521::1710782680::1714326805::1::::<><>::
+::res://Assets/Legacy-Fantasy - High Forest 2.3/::1712712914
+Credit.txt::TextFile::-1::1711573577::0::1::::<><>::
+::res://Assets/Legacy-Fantasy - High Forest 2.3/Assets/::1714326804
+Buildings.png::CompressedTexture2D::997913607088430090::1711573577::1714326804::1::::<><>::
+Hive.png::CompressedTexture2D::7632717419181089436::1711573577::1714326804::1::::<><>::
+Interior-01.png::CompressedTexture2D::595940038258755958::1711573577::1714326804::1::::<><>::
+Props-Rocks.png::CompressedTexture2D::1300457191772675777::1711573577::1714326804::1::::<><>::
+Tiles.png::CompressedTexture2D::5689280660012694011::1711573577::1714326804::1::::<><>::
+Tree-Assets.png::CompressedTexture2D::3305120618442832484::1711573577::1714326804::1::::<><>::
+::res://Assets/Legacy-Fantasy - High Forest 2.3/Background/::1714326804
+Background.png::CompressedTexture2D::5931952589145511003::1711573577::1714326804::1::::<><>::
+::res://Assets/Legacy-Fantasy - High Forest 2.3/Character/::1712712914
+::res://Assets/Legacy-Fantasy - High Forest 2.3/Character/Attack-01/::1714326804
+Attack-01-Sheet.png::CompressedTexture2D::6341609524455420751::1711573577::1714326804::1::::<><>::
+::res://Assets/Legacy-Fantasy - High Forest 2.3/Character/Dead/::1714326804
+Dead-Sheet.png::CompressedTexture2D::2488385203063785259::1711573577::1714326804::1::::<><>::
+::res://Assets/Legacy-Fantasy - High Forest 2.3/Character/Idle/::1714326804
+Idle-Sheet.png::CompressedTexture2D::5187023830607867703::1711573577::1714326804::1::::<><>::
+::res://Assets/Legacy-Fantasy - High Forest 2.3/Character/Jumlp-All/::1714326804
+Jump-All-Sheet.png::CompressedTexture2D::5357150941567220519::1711573577::1714326804::1::::<><>::
+::res://Assets/Legacy-Fantasy - High Forest 2.3/Character/Jump/::1712712914
+::res://Assets/Legacy-Fantasy - High Forest 2.3/Character/Jump-End/::1714326804
+Jump-End-Sheet.png::CompressedTexture2D::4218402246661831272::1711573577::1714326804::1::::<><>::
+::res://Assets/Legacy-Fantasy - High Forest 2.3/Character/Jump-Start/::1714326804
+Jump-Start-Sheet.png::CompressedTexture2D::3393254371340760339::1711573577::1714326804::1::::<><>::
+::res://Assets/Legacy-Fantasy - High Forest 2.3/Character/Run/::1714326804
+Run-Sheet.png::CompressedTexture2D::3894049426926032671::1711573577::1714326804::1::::<><>::
+::res://Assets/Legacy-Fantasy - High Forest 2.3/HUD/::1714326804
+Base-01.png::CompressedTexture2D::1250356609254411910::1711573577::1714326804::1::::<><>::
+::res://Assets/Legacy-Fantasy - High Forest 2.3/Mob/::1712712914
+::res://Assets/Legacy-Fantasy - High Forest 2.3/Mob/Boar/::1712712914
+::res://Assets/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Hit-Vanish/::1714326804
+Hit-Sheet-Black.png::CompressedTexture2D::6193030836201351527::1711573577::1714326804::1::::<><>::
+Hit-Sheet-White.png::CompressedTexture2D::4665642629827363694::1711573577::1714326804::1::::<><>::
+Hit-Sheet.png::CompressedTexture2D::8529473215053149067::1711573577::1714326804::1::::<><>::
+::res://Assets/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Idle/::1714326804
+Idle-Sheet-export-Back.png::CompressedTexture2D::8965414229203550015::1711573577::1714326804::1::::<><>::
+Idle-Sheet-White.png::CompressedTexture2D::2625431362401288147::1711573577::1714326804::1::::<><>::
+Idle-Sheet.png::CompressedTexture2D::4292870332630668655::1711573577::1714326804::1::::<><>::
+::res://Assets/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Run/::1714326804
+Run-Sheet-Black.png::CompressedTexture2D::1785095167410539697::1711573577::1714326804::1::::<><>::
+Run-Sheet-White.png::CompressedTexture2D::7142591535767447481::1711573577::1714326804::1::::<><>::
+Run-Sheet.png::CompressedTexture2D::4178098077550704412::1711573577::1714326804::1::::<><>::
+::res://Assets/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Walk/::1714326804
+Walk-Base-Sheet-White.png::CompressedTexture2D::8151296800094190091::1711573577::1714326804::1::::<><>::
+Walk-Base-Sheet.png::CompressedTexture2D::3987109924913138958::1711573577::1714326804::1::::<><>::
+Walk-Base-SheetBlack.png::CompressedTexture2D::3182201092353896244::1711573577::1714326804::1::::<><>::
+::res://Assets/Legacy-Fantasy - High Forest 2.3/Mob/Small Bee/::1712712914
+::res://Assets/Legacy-Fantasy - High Forest 2.3/Mob/Small Bee/Attack/::1714326804
+Attack-Sheet.png::CompressedTexture2D::4354121971477793947::1711573577::1714326804::1::::<><>::
+::res://Assets/Legacy-Fantasy - High Forest 2.3/Mob/Small Bee/Fly/::1714326804
+Fly-Sheet.png::CompressedTexture2D::4767564822387117843::1711573577::1714326804::1::::<><>::
+::res://Assets/Legacy-Fantasy - High Forest 2.3/Mob/Small Bee/Hit/::1714326804
+Hit-Sheet.png::CompressedTexture2D::5452094508903461042::1711573577::1714326804::1::::<><>::
+::res://Assets/Legacy-Fantasy - High Forest 2.3/Mob/Snail/::1714326804
+all.png::CompressedTexture2D::8054876573860061089::1711573577::1714326804::1::::<><>::
+Dead-Sheet.png::CompressedTexture2D::6404296358114744745::1711573577::1714326804::1::::<><>::
+Hide-Sheet.png::CompressedTexture2D::5014819080677533809::1711573577::1714326804::1::::<><>::
+walk-Sheet.png::CompressedTexture2D::8229153007894133143::1711573577::1714326804::1::::<><>::
+::res://Assets/Legacy-Fantasy - High Forest 2.3/Trees/::1714326805
+Background.png::CompressedTexture2D::6370310305224492402::1711573577::1714326804::1::::<><>::
+Dark-Tree.png::CompressedTexture2D::7657799648740539260::1711573577::1714326804::1::::<><>::
+Golden-Tree.png::CompressedTexture2D::6878549809411101730::1711573577::1714326804::1::::<><>::
+Green-Tree.png::CompressedTexture2D::725885093742723659::1711573577::1714326804::1::::<><>::
+Red-Tree.png::CompressedTexture2D::1209529535376390761::1711573577::1714326804::1::::<><>::
+Yellow-Tree.png::CompressedTexture2D::1752902837429214101::1711573577::1714326805::1::::<><>::
+::res://Assets/oak_woods_v1.0/::1714326804
+oak_woods_tileset.png::CompressedTexture2D::553394111442254677::1710782761::1714326804::1::::<><>::
+readme.TXT::TextFile::-1::1710782761::0::1::::<><>::
+::res://Assets/oak_woods_v1.0/background/::1714326804
+background_layer_1.png::CompressedTexture2D::1972660638053101193::1710782761::1714326804::1::::<><>::
+background_layer_2.png::CompressedTexture2D::1084666594318585481::1710782761::1714326804::1::::<><>::
+background_layer_3.png::CompressedTexture2D::3638220481011658474::1710782761::1714326804::1::::<><>::
+::res://Assets/oak_woods_v1.0/character/::1714326804
+char_blue.png::CompressedTexture2D::4721108734766752574::1710782761::1714326804::1::::<><>::
+::res://Assets/oak_woods_v1.0/decorations/::1714326804
+fence_1.png::CompressedTexture2D::5859176005564659581::1710782761::1714326804::1::::<><>::
+fence_2.png::CompressedTexture2D::3312819883153175114::1710782761::1714326804::1::::<><>::
+grass_1.png::CompressedTexture2D::1246517554989843509::1710782761::1714326804::1::::<><>::
+grass_2.png::CompressedTexture2D::2100210478787508389::1710782761::1714326804::1::::<><>::
+grass_3.png::CompressedTexture2D::6519183721309385356::1710782762::1714326804::1::::<><>::
+lamp.png::CompressedTexture2D::639802942649033425::1710782762::1714326804::1::::<><>::
+rock_1.png::CompressedTexture2D::3771356601868378553::1710782762::1714326804::1::::<><>::
+rock_2.png::CompressedTexture2D::6724750398583153605::1710782762::1714326804::1::::<><>::
+rock_3.png::CompressedTexture2D::1712824836088317829::1710782762::1714326804::1::::<><>::
+shop.png::CompressedTexture2D::5778168320899286811::1710782762::1714326804::1::::<><>::
+shop_anim.png::CompressedTexture2D::1643012349372602190::1710782762::1714326804::1::::<><>::
+sign.png::CompressedTexture2D::5725644058760468156::1710782762::1714326804::1::::<><>::
+::res://Assets/PNG/::1713736562
+::res://Assets/PNG/summer5/::1714326868
+1.png::CompressedTexture2D::8016702189425996869::1691071956::1714326868::1::::<><>::
+2.png::CompressedTexture2D::12103334097753379::1691072076::1714326868::1::::<><>::
+3.png::CompressedTexture2D::7827782511390485971::1691072074::1714326868::1::::<><>::
+4.png::CompressedTexture2D::3415091848204879471::1691072072::1714326868::1::::<><>::
+Summer5.png::CompressedTexture2D::3044423414695494519::1691072273::1714326868::1::::<><>::
+::res://Assets/PNG/summer6/::1714326868
+1.png::CompressedTexture2D::4768495265052938497::1691071948::1714326868::1::::<><>::
+2.png::CompressedTexture2D::1003286395018726580::1691072093::1714326868::1::::<><>::
+3.png::CompressedTexture2D::1388925467501565035::1691072091::1714326868::1::::<><>::
+4.png::CompressedTexture2D::1765543285131394838::1691072090::1714326868::1::::<><>::
+5.png::CompressedTexture2D::6967835122443915007::1691072087::1714326868::1::::<><>::
+Summer6.png::CompressedTexture2D::4797084286816455057::1691072268::1714326868::1::::<><>::
+::res://Assets/PNG/summer7/::1714326868
+1.png::CompressedTexture2D::3820989503956695996::1691071942::1714326868::1::::<><>::
+2.png::CompressedTexture2D::8358018758711578550::1691072110::1714326868::1::::<><>::
+3.png::CompressedTexture2D::8571365300729127342::1691072109::1714326868::1::::<><>::
+4.png::CompressedTexture2D::6063845937034580626::1691072107::1714326868::1::::<><>::
+Summer7.png::CompressedTexture2D::7729622907344345008::1691072262::1714326868::1::::<><>::
+::res://Assets/PNG/summer8/::1714326868
+1.png::CompressedTexture2D::9185958446546790172::1691071934::1714326868::1::::<><>::
+2.png::CompressedTexture2D::5185824970782589368::1691072126::1714326868::1::::<><>::
+3.png::CompressedTexture2D::2835245649059476728::1691072124::1714326868::1::::<><>::
+4.png::CompressedTexture2D::6489226485008877285::1691072123::1714326868::1::::<><>::
+Summer8.png::CompressedTexture2D::6367528011857525813::1691072253::1714326868::1::::<><>::
+::res://Assets/PNG/summer 1/::1714326868
+1.png::CompressedTexture2D::996398215560494180::1691071980::1714326868::1::::<><>::
+2.png::CompressedTexture2D::1319256357371632419::1691071999::1714326868::1::::<><>::
+3.png::CompressedTexture2D::3796033238433100508::1691071997::1714326868::1::::<><>::
+4.png::CompressedTexture2D::4094559212347201946::1691071994::1714326868::1::::<><>::
+Summer1.png::CompressedTexture2D::9181560845545850243::1691072292::1714326868::1::::<><>::
+::res://Assets/PNG/summer 2/::1714326868
+1.png::CompressedTexture2D::5259452065068830651::1691071972::1714326868::1::::<><>::
+2.png::CompressedTexture2D::966841290200349765::1691072019::1714326868::1::::<><>::
+3.png::CompressedTexture2D::2965104674559862572::1691072017::1714326868::1::::<><>::
+4.png::CompressedTexture2D::7568751765412836636::1691072014::1714326868::1::::<><>::
+Summer2.png::CompressedTexture2D::7172975032719373013::1691072288::1714326868::1::::<><>::
+::res://Assets/PNG/summer 3/::1714326868
+1.png::CompressedTexture2D::7141473568065037204::1691071966::1714326868::1::::<><>::
+2.png::CompressedTexture2D::960681153810400348::1691072041::1714326868::1::::<><>::
+3.png::CompressedTexture2D::6494585789074606076::1691072039::1714326868::1::::<><>::
+4.png::CompressedTexture2D::8515974158513453458::1691072036::1714326868::1::::<><>::
+Summer3.png::CompressedTexture2D::4040929030734719246::1691072285::1714326868::1::::<><>::
+::res://Assets/PNG/summer 4/::1714326868
+1.png::CompressedTexture2D::5794322238467999356::1691071961::1714326868::1::::<><>::
+2.png::CompressedTexture2D::8131692934152941492::1691072058::1714326868::1::::<><>::
+3.png::CompressedTexture2D::2126013706842315039::1691072056::1714326868::1::::<><>::
+Summer4.png::CompressedTexture2D::13772338119529813::1691072279::1714326868::1::::<><>::
+::res://Assets/Sidescroller Shooter - Central City/::1712712914
+::res://Assets/Sidescroller Shooter - Central City/Assets/::1714326804
+Buildings.png::CompressedTexture2D::2535931714750584029::1710782719::1714326804::1::::<><>::
+Props-01.png::CompressedTexture2D::4363369483916317521::1710782719::1714326804::1::::<><>::
+Tiles.png::CompressedTexture2D::500782907225723471::1710782719::1714326804::1::::<><>::
+::res://Assets/Sidescroller Shooter - Central City/Background/::1714326804
+Background Props.png::CompressedTexture2D::5103982491515066036::1710782719::1714326804::1::::<><>::
+Base Color.png::CompressedTexture2D::4795262636252854674::1710782719::1714326804::1::::<><>::
+Frontal Fog.png::CompressedTexture2D::6282942591546642763::1710782719::1714326804::1::::<><>::
+Mid Fog.png::CompressedTexture2D::7933650137746569386::1710782719::1714326804::1::::<><>::
+::res://Assets/Sidescroller Shooter - Central City/Social/::1714326805
+Background Props.png::CompressedTexture2D::1174304674176665409::1710782719::1714326804::1::::<><>::
+Buildings.png::CompressedTexture2D::586517132761330877::1710782719::1714326805::1::::<><>::
+MockUp-01.png::CompressedTexture2D::2891300198507574279::1710782719::1714326804::1::::<><>::
+Props-01.png::CompressedTexture2D::4707154147905619283::1710782719::1714326804::1::::<><>::
+Tiles.png::CompressedTexture2D::8744179100363336149::1710782719::1714326804::1::::<><>::
+::res://godot-colorblindness-4666c465443dc161bf47bce1b6c98598490458b5/::1715029825
+::res://godot-colorblindness-4666c465443dc161bf47bce1b6c98598490458b5/addons/::1715029825
+::res://godot-colorblindness-4666c465443dc161bf47bce1b6c98598490458b5/addons/paulloz.colorblindness/::1715029825
+colorblindness.gd::GDScript::-1::1715029825::0::1::::<>RefCounted<>::
+colorblindness.material::ShaderMaterial::-1::1715029825::0::1::::<><>::res://addons/paulloz.colorblindness/colorblindness.shader
+colorblindness.svg::CompressedTexture2D::240662195849949716::1715029825::1715029825::1::::<><>::
+paulloz.colorblindness.gd::GDScript::-1::1715029825::0::1::::<>RefCounted<>::
+plugin.cfg::TextFile::-1::1715029825::0::1::::<><>::
+::res://Scenes/::1715039241
+enemy_1.tscn::PackedScene::7739674994641846268::1715039241::0::1::::<><>::res://Scripts/enemy_1.gd<>uid://dg15wpm84rr78::::res://Assets/1 Woodcutter/Woodcutter_idle.png<>uid://rm37avabtt8k::::res://Assets/1 Woodcutter/Woodcutter_walk.png<>uid://wv0o2mrtoop4::::res://Assets/1 Woodcutter/Woodcutter_attack1.png<>uid://v14itk4tt65::::res://Assets/1 Woodcutter/Woodcutter_attack2.png<>uid://dteqwbjxa4q16::::res://Assets/1 Woodcutter/Woodcutter_hurt.png<>uid://2gt3ionqqlnj::::res://Assets/1 Woodcutter/Woodcutter_death.png<>res://Scripts/Take_Damage.gd<>res://Scripts/CharacterStateMachine.gd<>res://Scripts/State.gd<>res://Scripts/EnemyHit.gd
+game.tscn::PackedScene::2967698002315827529::1715039241::0::1::::<><>::res://Scripts/game_manager.gd<>uid://dmmkegp00cl18::::res://Scenes/MainScene.tscn<>uid://ci2b7g2kdlker::::res://Scenes/pause.tscn<>uid://cqb3x5a45ftwm::::res://Scenes/music.tscn
+health_changed_label.tscn::PackedScene::3589830233525310981::1715039241::0::1::::<><>::res://Scripts/health_changed_label.gd
+health_changed_manager.tscn::PackedScene::9047457875036943279::1715039241::0::1::::<><>::res://Scripts/health_changed_manager.gd<>uid://bre68ki541ucr::::res://Scenes/health_changed_label.tscn
+MainScene.tscn::PackedScene::8026915360369246657::1715039241::0::1::::<><>::uid://cqrqnlx2jpsop::::res://Assets/Legacy-Fantasy - High Forest 2.3/Background/Background.png<>uid://b5vp4u3yb3amw::::res://Assets/Legacy Fantasy - Debug Map/Assets/Tiles.png<>uid://jlyu1jigjhqp::::res://Assets/Legacy Fantasy - Debug Map/MockUp/Cover.png<>uid://dmag246b0343p::::res://Assets/Final/Background_0.png<>uid://dlbeb82dj7mri::::res://Assets/Sidescroller Shooter - Central City/Background/Mid Fog.png<>uid://cak4jl6qnoeww::::res://Assets/Sidescroller Shooter - Central City/Background/Base Color.png<>uid://ceyn305ufsm6g::::res://Assets/Sidescroller Shooter - Central City/Background/Background Props.png<>uid://cvrre8nl253p4::::res://Assets/Sidescroller Shooter - Central City/Background/Frontal Fog.png<>uid://cnb6vef35n3ad::::res://Assets/Legacy-Fantasy - High Forest 2.3/Assets/Tiles.png<>uid://bnda4a45fu1po::::res://Assets/Legacy-Fantasy - High Forest 2.3/Assets/Tree-Assets.png<>uid://het26pbc6nml::::res://Assets/Sidescroller Shooter - Central City/Assets/Tiles.png<>uid://b3fwb7638uv10::::res://Assets/Sidescroller Shooter - Central City/Assets/Props-01.png<>uid://bceoopd25g27b::::res://Assets/Sidescroller Shooter - Central City/Assets/Buildings.png<>uid://sr7ls8mruqib::::res://Assets/Legacy-Fantasy - High Forest 2.3/Assets/Props-Rocks.png<>uid://ohnqx7rtnpl7::::res://Assets/Legacy-Fantasy - High Forest 2.3/Assets/Buildings.png<>res://Scripts/TileMap.gd<>uid://xxaoff7gwbrm::::res://Scenes/player.tscn<>res://Scripts/Camera2D.gd<>uid://d15wkru03tcx8::::res://Scenes/health_changed_manager.tscn<>uid://dijfk00bov2bg::::res://Scenes/enemy_1.tscn
+main_menu.tscn::PackedScene::2906564354877918893::1715039239::0::1::::<><>::res://Scripts/Main Menu.gd<>uid://de10sbt7a2jty::::res://Assets/title.png
+music.tscn::PackedScene::5899669969464494572::1714326879::0::1::::<><>::uid://b7fsruxquqg2m::::res://Assets/reflected-light-147979.mp3
+options.tscn::PackedScene::2985974041832721270::1715039241::0::1::::<><>::res://Scripts/options.gd<>uid://p3e8wu3kfw1p::::res://Assets/Free Pixel Art Hill/Free Pixel Art Hill/PREVIEWS/Hills Free (update 3.0).png
+pause.tscn::PackedScene::5390208535556425673::1714326653::0::1::::<><>::res://Scripts/pause.gd<>uid://obfh8rbwtsj7::::res://UI/game_theme.tres
+player.tscn::PackedScene::1661849364936379042::1715039241::0::1::::<><>::res://Scripts/player.gd<>uid://cf5vr3rdkcdr0::::res://Assets/Legacy-Fantasy - High Forest 2.3/Character/Idle/Idle-Sheet.png<>uid://bvqkoppprkbil::::res://Assets/Legacy-Fantasy - High Forest 2.3/Character/Run/Run-Sheet.png<>uid://cwl6m881dulgh::::res://Assets/Legacy-Fantasy - High Forest 2.3/Character/Attack-01/Attack-01-Sheet.png<>uid://cilbq1jmxocd0::::res://Assets/Legacy-Fantasy - High Forest 2.3/Character/Jumlp-All/Jump-All-Sheet.png<>uid://bbpnlt5k5pp0f::::res://Assets/Legacy-Fantasy - High Forest 2.3/Character/Dead/Dead-Sheet.png<>res://Scripts/CharacterStateMachine.gd<>res://Scripts/GroundState.gd<>res://Scripts/AirState.gd<>res://Scripts/LandingState.gd<>res://Scripts/Attack.gd<>res://Scripts/Sword.gd<>res://Scripts/FacingCollisionShape2D.gd<>uid://cgvfnsa71cgg2::::res://Assets/12_Player_Movement_SFX/12_Step_wood_03.wav<>uid://c61u4l87mke7h::::res://Assets/12_Player_Movement_SFX/30_Jump_03.wav<>uid://c2wyjmfqq2l5u::::res://Assets/12_Player_Movement_SFX/45_Landing_01.wav<>uid://cwewrh6mxplbm::::res://Assets/12_Player_Movement_SFX/56_Attack_03.wav
+::res://Scripts/::1715030364
+AirState.gd::GDScript::-1::1714335831::0::1::::AirState<>State<>::
+Attack.gd::GDScript::-1::1714335765::0::1::::<>State<>::
+Axe.gd::GDScript::-1::1714353741::0::1::::<>Area2D<>::
+Camera2D.gd::GDScript::-1::1712587880::0::1::::<>Camera2D<>::
+CharacterStateMachine.gd::GDScript::-1::1714334844::0::1::::CharacterStateMachine<>Node<>::
+Enemy damage.gd::GDScript::-1::1713802202::0::1::::Enemy_Damage<>Node<>::
+EnemyHit.gd::GDScript::-1::1714331901::0::1::::EnemyHit<>State<>::
+enemy_1.gd::GDScript::-1::1714355629::0::1::::<>CharacterBody2D<>::
+FacingCollisionShape2D.gd::GDScript::-1::1712352035::0::1::::FacingCollisionShape2D<>CollisionShape2D<>::
+game_manager.gd::GDScript::-1::1714349071::0::1::::GameManager<>Node<>::
+GroundState.gd::GDScript::-1::1714354254::0::1::::GroundState<>State<>::
+health_changed_label.gd::GDScript::-1::1712337723::0::1::::<>Label<>::
+health_changed_manager.gd::GDScript::-1::1715030364::0::1::::<>Control<>::
+LandingState.gd::GDScript::-1::1711573577::0::1::::<>State<>::
+Main Menu.gd::GDScript::-1::1714332266::0::1::::<>Control<>::
+options.gd::GDScript::-1::1714354520::0::1::::<>Control<>::
+pause.gd::GDScript::-1::1713060921::0::1::::<>Control<>::
+player.gd::GDScript::-1::1714355076::0::1::::Player<>CharacterBody2D<>::
+PlayerTakeDamage.gd::GDScript::-1::1714336264::0::1::::PlayerTakeDamage<>Node<>::
+Player_take_damage.gd::GDScript::-1::1714242938::0::1::::TakeDamage<>State<>::
+signal_bus.gd::GDScript::-1::1712335854::0::1::::<>Node<>::
+State.gd::GDScript::-1::1714324980::0::1::::State<>Node<>::
+StateDebugLabel.gd::GDScript::-1::1714330213::0::1::::<>Label<>::
+Sword.gd::GDScript::-1::1714354254::0::1::::<>Area2D<>::
+Take_Damage.gd::GDScript::-1::1714354254::0::1::::Take_Damage<>Node<>::
+TileMap.gd::GDScript::-1::1712676721::0::1::::<>TileMap<>::
+::res://UI/::1714326657
+game_theme.tres::Theme::985026033815512306::1713060921::0::1::::<><>::

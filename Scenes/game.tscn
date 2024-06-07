@@ -1,0 +1,20 @@
+[gd_scene load_steps=5 format=3 uid="uid://bijts1x6yw8dp"]
+
+[ext_resource type="Script" path="res://Scripts/game_manager.gd" id="1_0csrm"]
+[ext_resource type="PackedScene" uid="uid://dmmkegp00cl18" path="res://Scenes/MainScene.tscn" id="1_8rjlt"]
+[ext_resource type="PackedScene" uid="uid://ci2b7g2kdlker" path="res://Scenes/pause.tscn" id="3_iqbd2"]
+[ext_resource type="PackedScene" uid="uid://cqb3x5a45ftwm" path="res://Scenes/music.tscn" id="4_px4t1"]
+
+[node name="GameManager" type="Node"]
+process_mode = 3
+script = ExtResource("1_0csrm")
+
+[node name="Game" parent="." instance=ExtResource("1_8rjlt")]
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="Pause" parent="CanvasLayer" node_paths=PackedStringArray("game_manager") instance=ExtResource("3_iqbd2")]
+game_manager = NodePath("../..")
+
+[node name="AudioStreamPlayer" parent="." instance=ExtResource("4_px4t1")]
+volume_db = -22.45

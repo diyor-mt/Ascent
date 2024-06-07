@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dtslp2rpwo5up"
+path="res://.godot/imported/attack.ogg-e74fb6b0b7a0119199f774aaed36e122.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/gothicvania assets/sounds/attack.ogg"
+dest_files=["res://.godot/imported/attack.ogg-e74fb6b0b7a0119199f774aaed36e122.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
